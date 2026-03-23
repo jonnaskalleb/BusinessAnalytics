@@ -11,7 +11,7 @@ Os projetos serão adicionados aqui em formato de portfólio organizado.
 
 Exemplos de projetos que ficarão disponíveis neste espaço:
 
-- Olist E-commerce
+- Olist E-commerce - https://github.com/jonnaskalleb/Ecommerce.git
 - Supermercado
 - Pizzaria
 - Vendas e Performance
